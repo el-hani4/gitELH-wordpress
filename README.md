@@ -24,13 +24,16 @@ Il a été réalisé dans le cadre de mon **BTS SIO** pour apprendre à maîtris
 
 ### Aperçu du site
 
-Capture de l'accueil du site :
-
-<img src="images/accueil.png" alt="Capture accueil" width="600"/>
-
-Capture des tarifs du gîte :
-
-<img src="images/tarif.png" alt="Capture tarifs" width="600"/>
+<table>
+  <tr>
+    <th>Capture de l'accueil du site :</th>
+    <th>Capture des tarifs du gîte :</th>
+  </tr>
+  <tr>
+    <td><img src="images/accueil.png" alt="Capture accueil" width="1200"/></td>
+    <td><img src="images/tarif.png" alt="Capture tarifs"/></td>
+  </tr>
+</table>
 
 ---
 
